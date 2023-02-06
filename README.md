@@ -1,3 +1,3 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/hacker_news_dag_pipeline) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/hacker_news_dag_pipeline) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/hacker_news_dag_pipeline) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/hacker_news_dag_pipeline) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/hacker_news_dag_pipeline) 
 # hacker_news_dag_pipeline
-An example project illustrating multiple dependency pipeline with directed acyclic graph implementation
+An example project illustrating a multiple dependency pipeline with directed acyclic graph implementation
